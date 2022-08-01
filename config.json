@@ -1,0 +1,15 @@
+{
+	"multiplier": 2.5,
+	"games_averaged": 15,
+	"bet_amount": 0.01,
+	"auto_bet": true,
+	"play_sounds": false,
+	"webhook" : "",
+	"max_betamount": 100,
+	"auto_stop": 1000,
+	"stop_loss": 0,
+	"auto_restart": true,
+	"key": "",
+	"authorization": ""
+}
+
